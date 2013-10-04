@@ -1,1 +1,1 @@
-fadf
+void main()
